@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "深圳天后宫"
+title:  "深天后宫"
 date:   2020-12-16 20:20:20 +0800
 categories: 语灵梦话
 ---
