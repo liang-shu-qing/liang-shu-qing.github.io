@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "无题-神龟论"
+title:  "无题-神鬼论"
 date:   2020-12-23 20:20:20 +0800
-categories: 语灵梦话
+tags: 语灵梦话
+author: 哈哈唏唏梦一场
 ---
 
 何方神圣对我财，哪座真神能消灾。

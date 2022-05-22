@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "深宋少帝陵"
 date:   2020-12-15 20:20:20 +0800
-categories: 语灵梦话
+tags: 游记
+author: 哈哈唏唏梦一场
 ---
 
 朝朝有更递，代代出奇才。

@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "洒歌"
 date:   2020-12-26 20:20:20 +0800
-categories: 语灵梦话
+tags: 语灵梦话
+author: 哈哈唏唏梦一场
 ---
 
 三爷三顿酒，朝朝鱼和肉。

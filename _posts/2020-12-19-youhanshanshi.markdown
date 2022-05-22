@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "游寒山寺"
 date:   2020-12-19 20:20:20 +0800
-categories: 语灵梦话
+tags: 游记
+author: 哈哈唏唏梦一场
 ---
 
 

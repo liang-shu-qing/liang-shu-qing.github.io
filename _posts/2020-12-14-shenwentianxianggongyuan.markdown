@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "深文天祥公园"
 date:   2020-12-14 20:20:20 +0800
-categories: 语灵梦话
+tags: 游记
+author: 哈哈唏唏梦一场
 ---
 
 公车回住地，公路标英灵。

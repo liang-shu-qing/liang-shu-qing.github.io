@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "责灶神"
 date:   2020-12-25 20:20:20 +0800
-categories: 语灵梦话
+tags: 语灵梦话
+author: 哈哈唏唏梦一场
 ---
 
 九天司命神， 当权不司令。

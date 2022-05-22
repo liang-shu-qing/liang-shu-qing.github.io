@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "自嘲"
 date:   2020-12-30 20:20:20 +0800
-categories: 语灵梦话
+tags: 语灵梦话
+author: 哈哈唏唏梦一场
 ---
 
 坎坎坷坷话生平
